@@ -1,5 +1,5 @@
 {
-  "name": "object detection",
+  "name": "objectdetection",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
